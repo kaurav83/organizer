@@ -1,4 +1,4 @@
-redux, react-hook-form, ts
+redux, react-hook-form, ts, material-ui, styled-components
 
 1. Для установки зависимостей выполни:
 
