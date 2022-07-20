@@ -8,7 +8,6 @@ import { App } from './app';
 
 // Instruments
 import { store } from './lib/redux/init/store';
-import './theme/styles/index.scss';
 import 'react-datepicker/dist/react-datepicker.css';
 import 'react-toastify/dist/ReactToastify.css';
 

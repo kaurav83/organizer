@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import img from '../../theme/assets/illustration.png';
+import img from '../../assets/images/illustration.png';
 import { ITagModel } from '../../api/types';
 
 export const Form = styled.form`
